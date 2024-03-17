@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  proc.cpp
+  dllmain.cpp
+C:\Users\Johnathan\source\repos\InternalGameCubeHack\InternalGameCubeHack\dllmain.cpp(110,52): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Johnathan\source\repos\InternalGameCubeHack\InternalGameCubeHack\dllmain.cpp(131,44): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Johnathan\source\repos\InternalGameCubeHack\InternalGameCubeHack\dllmain.cpp(138,48): warning C4018: '>=': signed/unsigned mismatch
+  mem.cpp
+  stdafx.cpp
+  Generating Code...
+  InternalGameCubeHack.vcxproj -> C:\Users\Johnathan\source\repos\InternalGameCubeHack\Debug\InternalGameCubeHack.dll
